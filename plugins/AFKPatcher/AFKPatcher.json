@@ -2,7 +2,7 @@
   "Author": "voetre",
   "Name": "AFK Patcher",
   "InternalName": "AFKPatcher",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.0.1",
   "Description": "Patch the AFK timers so you no longer get kicked from duties or the Novice Network.",
   "ApplicableVersion": "any",
   "Tags": [
@@ -14,6 +14,7 @@
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/voetre/AFKPatcher/master/AFKPatcherIcon.png",
   "Punchline": "AFK Timer patcher.",
   "AcceptsFeedback": true
 }
