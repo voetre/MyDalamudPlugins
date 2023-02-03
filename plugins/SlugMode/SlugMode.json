@@ -13,7 +13,7 @@
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://github.com/voetre/SlugMode/blob/39626d402d8d4fbf650649a99b8f802398eee069/Images/SlugModeIcon.png",
+  "IconUrl": "https://github.com/voetre/SlugMode/raw/39626d402d8d4fbf650649a99b8f802398eee069/Images/SlugModeIcon.png",
   "Punchline": "Do you like slugs? Do you wish everyone was a slug?.",
   "AcceptsFeedback": true
 }
