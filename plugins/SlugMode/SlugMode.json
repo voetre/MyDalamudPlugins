@@ -1,0 +1,18 @@
+{
+  "Author": "voetre",
+  "Name": "Slug Mode",
+  "InternalName": "SlugMode",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "We are all slugs down here.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "SlugMode",
+    "Slugs"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "Do you like slugs? Do you wish everyone was a slug?.",
+  "AcceptsFeedback": true
+}
