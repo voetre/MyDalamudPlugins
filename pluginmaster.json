@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/AFKPatcher/latest.zip",
         "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/AFKPatcher/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1675431347"
+        "LastUpdate": "1675432316"
     },
     {
         "Author": "voetre",
@@ -28,19 +28,20 @@
         "Punchline": "Do you like slugs? Do you wish everyone was a slug?.",
         "Description": "We are all slugs down here.",
         "InternalName": "SlugMode",
-        "AssemblyVersion": "0.0.0.1",
+        "AssemblyVersion": "1.0.0.1",
         "ApplicableVersion": "any",
         "Tags": [
             "SlugMode",
             "Slugs"
         ],
         "DalamudApiLevel": 8,
+        "IconUrl": "https://github.com/voetre/SlugMode/blob/39626d402d8d4fbf650649a99b8f802398eee069/Images/SlugModeIcon.png",
         "DownloadLinkInstall": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/SlugMode/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/SlugMode/latest.zip",
         "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/SlugMode/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1675431347"
+        "LastUpdate": "1675432316"
     }
 ]
