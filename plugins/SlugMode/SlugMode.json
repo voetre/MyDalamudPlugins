@@ -2,7 +2,7 @@
   "Author": "voetre",
   "Name": "Slug Mode",
   "InternalName": "SlugMode",
-  "AssemblyVersion": "0.0.0.1",
+  "AssemblyVersion": "1.0.0.1",
   "Description": "We are all slugs down here.",
   "ApplicableVersion": "any",
   "Tags": [
@@ -13,6 +13,7 @@
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
+  "IconUrl": "https://github.com/voetre/SlugMode/blob/39626d402d8d4fbf650649a99b8f802398eee069/Images/SlugModeIcon.png",
   "Punchline": "Do you like slugs? Do you wish everyone was a slug?.",
   "AcceptsFeedback": true
 }
