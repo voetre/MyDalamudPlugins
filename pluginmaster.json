@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/AFKPatcher/latest.zip",
         "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/AFKPatcher/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1675432971"
+        "LastUpdate": "1676038341"
     },
     {
         "Author": "voetre",
@@ -42,6 +42,29 @@
         "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/SlugMode/latest.zip",
         "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/SlugMode/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1675432971"
+        "LastUpdate": "1676038341"
+    },
+    {
+        "Author": "voetre",
+        "Name": "Mega Duckling",
+        "Punchline": "Call him ugly one more time... I dare you...",
+        "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+        "InternalName": "MegaDuckling",
+        "AssemblyVersion": "1.0.0.0",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Ugly",
+            "Duckling",
+            "Ugly Duckling"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "https://raw.githubusercontent.com/voetre/MegaDuckling/master/Images/MegaDucklingIcon.png",
+        "DownloadLinkInstall": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/MegaDuckling/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/MegaDuckling/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/MegaDuckling/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1676038341"
     }
 ]
