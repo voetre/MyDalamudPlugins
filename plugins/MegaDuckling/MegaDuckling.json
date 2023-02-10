@@ -1,0 +1,20 @@
+{
+  "Author": "voetre",
+  "Name": "Mega Duckling",
+  "InternalName": "MegaDuckling",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Ugly",
+    "Duckling",
+    "Ugly Duckling"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/voetre/MegaDuckling/master/Images/MegaDucklingIcon.png",
+  "Punchline": "Call him ugly one more time... I dare you...",
+  "AcceptsFeedback": true
+}
