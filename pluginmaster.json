@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/AFKPatcher/latest.zip",
         "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/AFKPatcher/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1676038673"
+        "LastUpdate": "1676082904"
     },
     {
         "Author": "voetre",
@@ -42,7 +42,7 @@
         "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/SlugMode/latest.zip",
         "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/SlugMode/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1676038673"
+        "LastUpdate": "1676082904"
     },
     {
         "Author": "voetre",
@@ -50,7 +50,7 @@
         "Punchline": "Call him ugly one more time... I dare you...",
         "Description": "Allow the duckling to reach his TRUE potential!",
         "InternalName": "MegaDuckling",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.1.0",
         "ApplicableVersion": "any",
         "Tags": [
             "Ugly",
@@ -65,6 +65,6 @@
         "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/MegaDuckling/latest.zip",
         "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/MegaDuckling/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1676038673"
+        "LastUpdate": "1676082904"
     }
 ]
