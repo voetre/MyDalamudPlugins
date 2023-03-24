@@ -1,6 +1,28 @@
 [
     {
         "Author": "voetre",
+        "Name": "Slug Mode",
+        "Punchline": "Do you like slugs? Do you wish everyone was a slug?.",
+        "Description": "We are all slugs down here.",
+        "InternalName": "SlugMode",
+        "AssemblyVersion": "1.0.0.2",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "SlugMode",
+            "Slugs"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "https://github.com/voetre/SlugMode/raw/39626d402d8d4fbf650649a99b8f802398eee069/Images/SlugModeIcon.png",
+        "DownloadLinkInstall": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/SlugMode/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/SlugMode/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/SlugMode/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1679625776"
+    },
+    {
+        "Author": "voetre",
         "Name": "AFK Patcher",
         "Punchline": "AFK Timer patcher.",
         "Description": "Patch the AFK timers so you no longer get kicked from duties or the Novice Network.",
@@ -20,29 +42,7 @@
         "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/AFKPatcher/latest.zip",
         "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/AFKPatcher/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1676082904"
-    },
-    {
-        "Author": "voetre",
-        "Name": "Slug Mode",
-        "Punchline": "Do you like slugs? Do you wish everyone was a slug?.",
-        "Description": "We are all slugs down here.",
-        "InternalName": "SlugMode",
-        "AssemblyVersion": "1.0.0.2",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "SlugMode",
-            "Slugs"
-        ],
-        "DalamudApiLevel": 8,
-        "IconUrl": "https://github.com/voetre/SlugMode/raw/39626d402d8d4fbf650649a99b8f802398eee069/Images/SlugModeIcon.png",
-        "DownloadLinkInstall": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/SlugMode/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/SlugMode/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/SlugMode/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1676082904"
+        "LastUpdate": "1679625776"
     },
     {
         "Author": "voetre",
@@ -65,6 +65,6 @@
         "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/MegaDuckling/latest.zip",
         "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/MegaDuckling/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1676082904"
+        "LastUpdate": "1679625776"
     }
 ]
