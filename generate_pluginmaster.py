@@ -83,7 +83,7 @@ def write_master(master):
     # write as pretty json
     with open('pluginmaster.json', 'w') as f:
         json.dump(master, f, indent=4)
-    with open('名鑑.json', 'w') as f:
+    with open('一覧.json', 'w') as f:
         json.dump(master, f, indent=4)
 
 def trim_manifest(plugin):
@@ -92,7 +92,7 @@ def trim_manifest(plugin):
 def last_update():
     with open('pluginmaster.json') as f:
         master = json.load(f)
-    with open('名鑑.json') as f:
+    with open('一覧.json') as f:
         master = json.load(f)
 
     for plugin in master:
@@ -104,7 +104,7 @@ def last_update():
 
     with open('pluginmaster.json', 'w') as f:
         json.dump(master, f, indent=4)
-    with open('名鑑.json', 'w') as f:
+    with open('一覧.json', 'w') as f:
         json.dump(master, f, indent=4)
 
 if __name__ == '__main__':
