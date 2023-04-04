@@ -1,0 +1,20 @@
+{
+  "Author": "voetre",
+  "Name": "Position Master",
+  "InternalName": "PosMaster",
+  "AssemblyVersion": "1.0.1.0",
+  "Description": "its a position hack, dont use it if you arent okay with that fact...",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Position",
+    "PosMaster",
+    "PosHack"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/voetre/PosMaster/master/PosMaster/Images/PosMasterIcon.png",
+  "Punchline": "A position hack tool.",
+  "AcceptsFeedback": true
+}
