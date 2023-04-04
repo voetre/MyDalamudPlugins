@@ -19,7 +19,7 @@
         "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/SlugMode/latest.zip",
         "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/SlugMode/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680619081"
+        "LastUpdate": "1680619405"
     },
     {
         "Author": "voetre",
@@ -42,7 +42,7 @@
         "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/AFKPatcher/latest.zip",
         "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/AFKPatcher/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680619081"
+        "LastUpdate": "1680619405"
     },
     {
         "Author": "voetre",
@@ -50,7 +50,7 @@
         "Punchline": "A position hack tool.",
         "Description": "its a position hack, dont use it if you arent okay with that fact...",
         "InternalName": "PosMaster",
-        "AssemblyVersion": "1.0.2.0",
+        "AssemblyVersion": "1.0.3.0",
         "ApplicableVersion": "any",
         "Tags": [
             "Position",
@@ -65,7 +65,7 @@
         "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/PosMaster/latest.zip",
         "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/PosMaster/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680619081"
+        "LastUpdate": "1680619405"
     },
     {
         "Author": "voetre",
@@ -88,6 +88,6 @@
         "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/MegaDuckling/latest.zip",
         "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/MegaDuckling/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680619081"
+        "LastUpdate": "1680619405"
     }
 ]
