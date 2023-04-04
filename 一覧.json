@@ -19,7 +19,7 @@
         "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/SlugMode/latest.zip",
         "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/SlugMode/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1679628230"
+        "LastUpdate": "1680618646"
     },
     {
         "Author": "voetre",
@@ -42,7 +42,30 @@
         "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/AFKPatcher/latest.zip",
         "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/AFKPatcher/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1679628230"
+        "LastUpdate": "1680618646"
+    },
+    {
+        "Author": "voetre",
+        "Name": "Position Master",
+        "Punchline": "A position hack tool.",
+        "Description": "its a position hack, dont use it if you arent okay with that fact...",
+        "InternalName": "PosMaster",
+        "AssemblyVersion": "1.0.1.0",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Position",
+            "PosMaster",
+            "PosHack"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "https://raw.githubusercontent.com/voetre/PosMaster/master/PosMaster/Images/PosMasterIcon.png",
+        "DownloadLinkInstall": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/PosMaster/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/PosMaster/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/PosMaster/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1680618646"
     },
     {
         "Author": "voetre",
@@ -65,6 +88,6 @@
         "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/MegaDuckling/latest.zip",
         "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/MegaDuckling/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1679628230"
+        "LastUpdate": "1680618646"
     }
 ]
