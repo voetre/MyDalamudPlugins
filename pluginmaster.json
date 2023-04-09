@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/AFKPatcher/latest.zip",
         "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/AFKPatcher/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680952034"
+        "LastUpdate": "1681025325"
     },
     {
         "Author": "voetre",
@@ -43,7 +43,7 @@
         "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/MegaDuckling/latest.zip",
         "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/MegaDuckling/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680952034"
+        "LastUpdate": "1681025325"
     },
     {
         "Author": "voetre",
@@ -65,15 +65,16 @@
         "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/SlugMode/latest.zip",
         "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/SlugMode/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680952034"
+        "LastUpdate": "1681025325"
     },
     {
         "Author": "voetre",
         "Name": "Position Master",
         "Punchline": "A position hack tool.",
         "Description": "its a position hack, dont use it if you arent okay with that fact...",
+        "Changelog": "- 1.2.0.0:\n   \u2022 implemented speed hack.\n   \u2022 'setpos' has been re-implemented but is now used to set your position on the fly.\n   \u2022 'setpos' command has been renamed to 'loadpos', it is still used the same way.\n- 1.1.0.0:\n   \u2022 bug fixes and debug code cleanup.",
         "InternalName": "PosMaster",
-        "AssemblyVersion": "1.1.0.0",
+        "AssemblyVersion": "1.2.0.0",
         "ApplicableVersion": "any",
         "Tags": [
             "Position",
@@ -88,6 +89,6 @@
         "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/PosMaster/latest.zip",
         "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/PosMaster/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680952034"
+        "LastUpdate": "1681025325"
     }
 ]
