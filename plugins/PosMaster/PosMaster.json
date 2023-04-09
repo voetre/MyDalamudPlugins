@@ -2,7 +2,7 @@
   "Author": "voetre",
   "Name": "Position Master",
   "InternalName": "PosMaster",
-  "AssemblyVersion": "1.1.0.0",
+  "AssemblyVersion": "1.2.0.0",
   "Description": "its a position hack, dont use it if you arent okay with that fact...",
   "ApplicableVersion": "any",
   "Tags": [
@@ -16,5 +16,6 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/voetre/PosMaster/master/PosMaster/Images/PosMasterIcon.png",
   "Punchline": "A position hack tool.",
+  "Changelog": "- 1.2.0.0:\n   • implemented speed hack.\n   • 'setpos' has been re-implemented but is now used to set your position on the fly.\n   • 'setpos' command has been renamed to 'loadpos', it is still used the same way.\n- 1.1.0.0:\n   • bug fixes and debug code cleanup.",
   "AcceptsFeedback": true
 }
