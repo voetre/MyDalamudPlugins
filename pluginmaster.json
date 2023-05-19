@@ -20,7 +20,29 @@
         "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/AFKPatcher/latest.zip",
         "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/AFKPatcher/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1681104482"
+        "LastUpdate": "1684484847"
+    },
+    {
+        "Author": "voetre",
+        "Name": "Slug Mode",
+        "Punchline": "Do you like slugs? Do you wish everyone was a slug?.",
+        "Description": "We are all slugs down here.",
+        "InternalName": "SlugMode",
+        "AssemblyVersion": "1.0.0.2",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "SlugMode",
+            "Slugs"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "https://github.com/voetre/SlugMode/raw/39626d402d8d4fbf650649a99b8f802398eee069/Images/SlugModeIcon.png",
+        "DownloadLinkInstall": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/SlugMode/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/SlugMode/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/SlugMode/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1684484847"
     },
     {
         "Author": "voetre",
@@ -43,36 +65,14 @@
         "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/MegaDuckling/latest.zip",
         "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/MegaDuckling/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1681104482"
-    },
-    {
-        "Author": "voetre",
-        "Name": "Slug Mode",
-        "Punchline": "Do you like slugs? Do you wish everyone was a slug?.",
-        "Description": "We are all slugs down here.",
-        "InternalName": "SlugMode",
-        "AssemblyVersion": "1.0.0.2",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "SlugMode",
-            "Slugs"
-        ],
-        "DalamudApiLevel": 8,
-        "IconUrl": "https://github.com/voetre/SlugMode/raw/39626d402d8d4fbf650649a99b8f802398eee069/Images/SlugModeIcon.png",
-        "DownloadLinkInstall": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/SlugMode/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/SlugMode/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/SlugMode/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1681104482"
+        "LastUpdate": "1684484847"
     },
     {
         "Author": "voetre",
         "Name": "Position Master",
         "Punchline": "A position hack tool.",
         "Description": "its a position hack, dont use it if you arent okay with that fact...",
-        "Changelog": "- 1.2.1.0:\n   \u2022 removed 'fast' button from gui (left over from testing).\n- 1.2.0.0:\n   \u2022 implemented speed hack.\n   \u2022 'setpos' has been re-implemented but is now used to set your position on the fly.\n   \u2022 'setpos' command has been renamed to 'loadpos', it is still used the same way.",
+        "Changelog": "- 1.2.2.0:\n   \u2022 Added a 'Preview Position' option in the position saver.\n- 1.2.1.0:\n   \u2022 removed 'fast' button from gui (left over from testing).\n- 1.2.0.0:\n   \u2022 implemented speed hack.\n   \u2022 'setpos' has been re-implemented but is now used to set your position on the fly.\n   \u2022 'setpos' command has been renamed to 'loadpos', it is still used the same way.",
         "InternalName": "PosMaster",
         "AssemblyVersion": "1.2.2.0",
         "ApplicableVersion": "any",
@@ -89,6 +89,6 @@
         "DownloadLinkTesting": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/PosMaster/latest.zip",
         "DownloadLinkUpdate": "https://github.com/voetre/MyDalamudPlugins/raw/master/plugins/PosMaster/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1681104482"
+        "LastUpdate": "1684484847"
     }
 ]
